@@ -19,7 +19,7 @@ We use a very standard Github development process, using Github tracker for issu
 
 That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
 None of these is essential for a pull request, but they will all help. They can also be added after the original pull request but before a merge.
-* Use code format conventions stored in that repository.
+* Use [code format conventions](https://github.com/continuous-perf-test/continuous-perf-test/tree/master/formatting-profile).
 * Make sure all new .java files to have a simple Javadoc class comment with at least an @author tag identifying you, and preferably at least a paragraph on what the class is for.
 * Add the GPL license header comment to all new .java files (copy from existing files in the project)
 * Add yourself as an @author to the .java files that you modify substantially (more than cosmetic changes).
